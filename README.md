@@ -203,28 +203,3 @@ All files                           |    7.54 |     4.7 |    4.8 |    7.67 |
 4. Tất cả các test đều pass, chứng tỏ các API đang hoạt động đúng theo yêu cầu.
 
 # hình ảnh minh hoa
-
-## 1. Kết quả test tổng quan
-![Coverage Overview](./images/test-results/coverage-overview.png)
-
-## 2. Kết quả test chi tiết từng API
-
-### Practice API Tests
-![Practice API Tests](./images/test-results/practice-api-tests.png)
-
-### Authentication API Tests
-![Auth API Tests](./images/test-results/auth-api-tests.png)
-
-### Quiz API Tests
-![Quiz API Tests](./images/test-results/quiz-api-tests.png)
-
-### Home API Tests
-![Home API Tests](./images/test-results/home-api-tests.png)
-
-### Navbar API Tests
-![Navbar API Tests](./images/test-results/navbar-api-tests.png)
-
-## 3. Coverage Report Details
-![Coverage Details](./images/test-results/coverage-details.png)
-
-> Lưu ý: Để xem các hình ảnh này, bạn cần chạy lệnh `npm test` và chụp lại kết quả test, sau đó lưu vào thư mục `images/test-results/`
