@@ -200,6 +200,4 @@ All files                           |    7.54 |     4.7 |    4.8 |    7.67 |
    - Network error (Lỗi kết nối)
    - Input validation (Dữ liệu đầu vào)
 
-4. Tất cả các test đều pass, chứng tỏ các API đang hoạt động đúng theo yêu cầu.
 
-# hình ảnh minh hoa
